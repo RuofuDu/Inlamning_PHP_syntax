@@ -30,7 +30,7 @@
     <table>
         <tr class="titel">
             <th>Kurs</th>
-            <th>Lare</th>
+            <th>Lärare</th>
         </tr>
         <?php
         $kurslarare = array("Webbserverprogrammering1" => "Holger", "Matematik5" => "Sevil", "MatematikSpec" => "Nikodemos", "Svenska3" => "Anna-Karin", "Historia1a1" => "Tommy", "Fysik2" => "Charles");
